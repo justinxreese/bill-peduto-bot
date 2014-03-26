@@ -33,6 +33,7 @@ def writeTweet( event ):
 		"(?i)^(Travel|Drive|Driving) from ": "I'm traveling from %s",
 		"(?i)^Serve as": "I'm serving as %s",
 		"(?i)^Working in office": "%sI'm working in my office until",
+		"Mac Miller": "I seek the kush",
 	}
 	
 	message = ""
